@@ -35,6 +35,6 @@ Only the methods shown in the UML (plus getters and setters) are allowed.
 
 ## 📘 UML Class Diagram
 
-![UML Diagram]([Screenshot 2025-12-10 223148.jpg](https://github.com/Pinya444/CimbDecoratorPattern/blob/main/Screenshot%202025-12-10%20223148.jpg)
+![UML Diagram](Screenshot 2025-12-10 223148.jpg)
 
 ## Uploaded java codes for the solution.

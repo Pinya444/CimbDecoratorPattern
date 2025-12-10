@@ -35,3 +35,6 @@ Only the methods shown in the UML (plus getters and setters) are allowed.
 
 ## 📘 UML Class Diagram
 
+
+
+## Uploaded java codes for the solution.
